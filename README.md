@@ -1,8 +1,7 @@
-### Professor and Course Management System (C Program)
+# Professor and Course Management System (C Program)
 This C program manages information about professors and courses, performing various tasks using functions defined in givenA1.h. Here's a brief overview of the tasks:
 
-## Tasks
-# Task 1: Reading Files
+## Task 1: Reading Files
 
 The program reads course information from a specified file using openFileForReading.
 
